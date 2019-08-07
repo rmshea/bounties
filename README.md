@@ -141,8 +141,8 @@ Contributors to the Solana platform shall, if applicable to the scope of work, f
 | #1      | Improve networking + promotional campaign | [#1](https://github.com/solana-labs/bounties/issues/)| `Marketing`|  27.09.19 |  Multiple     | `Open`  |  550 SOL | 03.07.19 | `*`  |
 | #2      | Test media formats | [#2](https://github.com/solana-labs/bounties/issues/)| `Testing`|  03.08.19 | @ryan-shea | `On Hold`  |  50 SOL | 13.07.19 | 50 SOL  |
 | #3      | Source(s) of content | [#3](https://github.com/solana-labs/bounties/issues/)| `Marketing`|  18.08.19 | NA | `Open` |  10 SOL | NA | 200 SOL  |
-| #4      | Spec out decentralized exchange needs | [#4](https://github.com/solana-labs/bounties/issues/)| `DEX`|  18.08.19 | NA | `Open` |  50 SOL | NA | 200 SOL  |
-| #3      | Fix runtime VM performance bug on Windows | [#4](https://github.com/solana-labs/bounties/issues/)| `OS`|  18.08.19 | NA | `Open` |  500 SOL | NA | 200 SOL  |
+| #4      | Improve wallet CLI issues | [#4](https://github.com/solana-labs/bounties/issues/)| `DEX`|  18.08.19 | NA | `Open` |  50 SOL | NA | 200 SOL  |
+| #5      | Fix runtime VM performance bug on Windows | [#4](https://github.com/solana-labs/bounties/issues/)| `OS`|  18.08.19 | NA | `Open` |  500 SOL | NA | 200 SOL  |
 
 
 ### Concluded Bounties
