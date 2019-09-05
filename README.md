@@ -1,12 +1,29 @@
 # Contributing to Solana
 
-Our goal is to make contributing to the Solana project transparent and straightforward.
+Our goal is to make contributing to the Solana project transparent and straightforward. Looking to contribute something to Solana? **Here's how you can help.**
 
-Looking to contribute something to Solana? **Here's how you can help.**
+## Using the issue tracker
+
+The [issue tracker](https://github.com/solana-labs/solana/issues) is
+the preferred channel for bug reports and other various issues. Please respect the following
+restrictions:
+
+* Please **do not** use the issue tracker for personal support requests.  [Discord](https://solana.com/discord) is the hub for support.
+* Please **do not** undermine other issue submissions. If a user is looking for our support venue, please direct them to the Discord.
+
+## Issues and labels
+
+Our issue board utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
+
+- add labels here
+
+For a complete look at our labels, see the [project labels page](https://github.com/solana-labs/solana/labels).
+
+## License Agreement
 
 All code-based contributions require you to agree to a Contributor License Agreement (CLA) 
 declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit
-https://cla.solana.com.
+the [CLA homepage](https://cla.solana.com).
 
 When you submit a pull request to any Solana Labs repo, a CLA-bot will automatically determine whether you need
 to provide a CLA and decorate the PR appropriately. Simply follow the
@@ -22,22 +39,6 @@ receive a response within 24 hours. If for some reason you do not, please follow
 email to ensure we received your original message. Further information, including the
 [Mission Critical PGP](insert pgp key here)key, can be found in
 the [Security Guidelines.](https://github.com/solana-labs/bounties/blob/security-guidelines.md)
-
-## Using the issue tracker
-
-The [issue tracker](https://github.com/solana-labs/solana/issues) is
-the preferred channel for bug reports and submitting pull requests. Please respect the following
-restrictions:
-
-* Please **do not** use the issue tracker for personal support requests.  [Discord](https://solana.com/discord) is the hub for support.
-
-## Issues and labels
-
-Our issue board utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
-
-- add labels here
-
-For a complete look at our labels, see the [project labels page](https://github.com/solana-labs/solana/labels).
 
 ## Bounties
 
