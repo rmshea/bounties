@@ -56,7 +56,7 @@ Upon creating a pull request fulfilling one of the outlined bounties, our engine
 
 All participants in the Solana Bounty Program need to sign an acknowledgement of the terms of the program. The eligibility criteria live [here.](https://drive.google.com/open?id=10mEIpZEHj4AfgjZ5TGwfjPPtU59xlOQzmbzXoPZWGEM)
 
-Please fill out this [Google Form.](https://docs.google.com/forms/d/e/1FAIpQLSeKq4ZX65MOrSj6P-Cq7M89Vs-iT-XltdyoNN9AdfgCL19b0w/viewform?usp=sf_link)
+Fill out this [Google Form to confirm your acknowledgement.](https://docs.google.com/forms/d/e/1FAIpQLSeKq4ZX65MOrSj6P-Cq7M89Vs-iT-XltdyoNN9AdfgCL19b0w/viewform?usp=sf_link)
 
 ## Legal
 
