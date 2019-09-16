@@ -52,6 +52,12 @@ Payout amounts are derived from the engineering team's classification of the bou
 
 Upon creating a pull request fulfilling one of the outlined bounties, our engineering team will review your code and confer with the operations team whether or not your submission is in fulfillment of the predefined guidelines. If your code passes our review, we'll merge your contribution, and then be in touch about legal and payment proceedings.
 
+## Bounty Program Agreement 
+
+All participants in the Solana Bounty Program need to sign an acknowledgement of the terms of the program. The eligibility criteria live [here.](https://drive.google.com/open?id=10mEIpZEHj4AfgjZ5TGwfjPPtU59xlOQzmbzXoPZWGEM)
+
+Please fill out this [Google Form.](https://docs.google.com/forms/d/e/1FAIpQLSeKq4ZX65MOrSj6P-Cq7M89Vs-iT-XltdyoNN9AdfgCL19b0w/viewform?usp=sf_link)
+
 ## Legal
 
 By contributing your code, you agree to license your contribution under the [Solana Modified Apache 2.0 License](LICENSE). You also agree that you have agreed to the terms outlined in our CLA, which can be found [here](add CLA link).
